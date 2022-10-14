@@ -98,7 +98,7 @@ function bookmark(identificador) {
             album.like = album.like ? false : true;
         }
     });
-
+    //dale
     agregarFavoritos(identificador);
     renderizarAlbums();
 }
